@@ -87,18 +87,6 @@ The analysis is based on three datasets:
 * High intake rates for certain breeds suggest the need for breed-specific adoption campaigns.
 * Older animals have lower adoption rates; shelters can implement targeted incentives.
 
-## Project Structure
-Austin_Animal_Analysis/
-├── data/
-│   ├── Austin_Animal_Center_Intakes_20240425.csv
-│   ├── Austin_Animal_Center_Outcomes_20240425.csv
-│   └── Austin_Animal_Center_Stray_Map_20240425.csv
-├── visuals/
-│   └── (Generated plots and graphs)
-├── Scripting_Major_Project_Analysis.ipynb
-├── stray_animals_map.html
-└── README.md
-
 
 ## How to Run the Project
 
